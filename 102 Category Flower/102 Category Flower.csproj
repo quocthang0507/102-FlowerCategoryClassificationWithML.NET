@@ -6,4 +6,8 @@
     <RootNamespace>_102_Category_Flower</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\102 Category FlowerML.Model\102 Category FlowerML.Model.csproj" />
+  </ItemGroup>
+
 </Project>
