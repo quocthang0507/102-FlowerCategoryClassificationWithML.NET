@@ -12,7 +12,7 @@ namespace _102_Category_FlowerML.ConsoleApp
             // Create single instance of sample data from first line of dataset for model input
             ModelInput sampleData = new ModelInput()
             {
-                ImageSource = @"D:\Github\102 Category Flower\jpg\1\image_06734.jpg",
+                ImageSource = @"D:\Github\102 Category Flower\jpg\Alpine Sea Holly\image_06969.jpg",
             };
 
             // Make a single prediction on the sample data and print results

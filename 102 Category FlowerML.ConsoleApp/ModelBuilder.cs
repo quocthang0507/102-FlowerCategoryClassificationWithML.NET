@@ -13,7 +13,7 @@ namespace _102_Category_FlowerML.ConsoleApp
 {
     public static class ModelBuilder
     {
-        private static string TRAIN_DATA_FILEPATH = @"C:\Users\La Quoc Thang\AppData\Local\Temp\636ab283-2ef7-4e9d-ba1c-4d2e6f3786a8.tsv";
+        private static string TRAIN_DATA_FILEPATH = @"C:\Users\La Quoc Thang\AppData\Local\Temp\7f4066cc-ea10-4938-bdb1-e0fd1090674e.tsv";
         private static string MODEL_FILE = ConsumeModel.MLNetModelPath;
 
         // Create MLContext to be shared across the model creation workflow objects 
